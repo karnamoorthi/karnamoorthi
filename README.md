@@ -24,5 +24,4 @@ As an avid learner and open-source advocate, I stay abreast of the latest trends
 <code><img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60"></code>
 <code><img  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60"></code>
 <code><img  src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="60"></code>
-<code><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60"></code>
 <code><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="60"></code>
