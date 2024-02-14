@@ -19,10 +19,10 @@ As an avid learner and open-source advocate, I stay abreast of the latest trends
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"></code>
 <code><img  src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"></code>
 <code><img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60"></code>
-<code><img  src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg" width="60"></code>
-<code><img  src="https://www.vectorlogo.zone/util/preview.html?image=/logos/phpmyadmin/phpmyadmin-ar21.svg" width="60"></code>
+<code><img  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60"></code>
+<code><img  src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="60"></code>
 <code><img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60"></code>
-<code><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/atlassian_jira/atlassian_jira-icon.svg" width="60"></code>
-<code><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"></code>
+<code><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="60"></code>
