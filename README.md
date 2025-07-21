@@ -28,13 +28,13 @@ As an avid learner and open-source advocate, I stay abreast of the latest trends
 
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width="60" src="https://raw.githubusercontent.com/github/explore/37c71e2f6a7807046e0eacac7a1fbb93b9f1b90a/topics/nextjs/nextjs.png"></code>
+<code><img width="60" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/37c71e2f6a7807046e0eacac7a1fbb93b9f1b90a/topics/postgresql/postgresql.png"></code>
-<code><img width="60" src="https://raw.githubusercontent.com/github/explore/37c71e2f6a7807046e0eacac7a1fbb93b9f1b90a/topics/flask/flask.png"></code>
+<code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<code><img width="60" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg"></code>
 <code><img width="60" src="https://upload.vectorlogo.zone/logos/djangoproject/images/987d061e-1b91-4e4a-aa41-e6fc343d2cd7.svg"></code>
-<code><img width="60" src="https://raw.githubusercontent.com/github/explore/37c71e2f6a7807046e0eacac7a1fbb93b9f1b90a/topics/django/django.png"></code>
+<code><img width="60" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="60" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code><img width="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img width="60" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></code>
