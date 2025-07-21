@@ -2,18 +2,18 @@
 
 I’m a **Full Stack Developer (Python + React + Next.js)** renowned for crafting powerful and user-friendly digital experiences. With a talent for transforming concepts into reality, I specialize in developing **robust backend systems and dynamic frontend applications** that facilitate seamless interactions.
 
-💡 **What I Do**
+**What I Do**
 
 - 🛠️ Build scalable RESTful APIs with **FastAPI, Flask, Django**
 - 🔧 Optimize database performance and architecture with **PostgreSQL, MySQL, SQLAlchemy**
 - ⚛️ Develop interactive frontends using **React.js** and **Next.js**
 - 🔒 Ensure security and performance best practices across full-stack solutions
 
-🌱 **Currently Learning**
+**Currently Learning**
 - Advanced Next.js features (SSR, ISR, middleware)
 - CI/CD pipelines for production-ready deployments
 
-🤝 **Open Source & Collaboration**
+**Open Source & Collaboration**
 As an avid learner and open-source advocate, I stay abreast of the latest trends and technologies. I believe in the power of **collaboration, clean code, and continuous improvement** to drive innovation.
 
 ---
@@ -24,7 +24,7 @@ As an avid learner and open-source advocate, I stay abreast of the latest trends
 
 ---
 
-### 🛠️ **Languages & Tools**
+### **Languages & Tools**
 
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -41,7 +41,7 @@ As an avid learner and open-source advocate, I stay abreast of the latest trends
 
 ---
 
-### 📫 **Connect with me**
+### **Connect with me**
 - [LinkedIn](https://www.linkedin.com/in/karuna-moorthi-983b73278/)
 
 ---
